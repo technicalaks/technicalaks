@@ -8,7 +8,6 @@
   𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬
 </h1>
 
-<h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalaks&label=Profile%20views&color=0e75b6&style=flat" alt="technicalaks" /> </p>
