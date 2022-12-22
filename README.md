@@ -2,10 +2,10 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f5860fcf0d55aed22b847.jpg" alt="Imdb updates">
+  <img src="https://telegra.ph/file/ec2d3cd2710031908547f.jpg" alt="𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬">
 </p>
 <h1 align="center">
-  <b>IMDB</b>
+  𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
