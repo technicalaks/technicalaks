@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IMDB+MOVIE+SEARCH+BOT+!;CREATED+BY+IMDB+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
