@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IMDB+MOVIE+SEARCH+BOT+!;CREATED+BY+IMDB+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗲𝗹𝗹𝗼+𝗺𝘆+𝗻𝗮𝗺𝗲+𝗶𝘀+𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹+𝗮𝗸𝘀+!;𝗮𝗻𝗱+𝗼𝘂𝗿+𝘁𝗲𝗮𝗺+𝗶𝘀+𝗶𝗺𝗱𝗯+𝘁𝗲𝗮𝗺!)
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
