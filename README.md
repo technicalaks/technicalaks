@@ -1,6 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗲𝗹𝗹𝗼+𝗺𝘆+𝗻𝗮𝗺𝗲+𝗶𝘀+𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹+𝗮𝗸𝘀+!;𝗮𝗻𝗱+𝗼𝘂𝗿+𝘁𝗲𝗮𝗺+𝗶𝘀+𝗶𝗺𝗱𝗯+𝘁𝗲𝗮𝗺!)
 </p>
 
+<p align="center">
+  <img src="https://telegra.ph/file/f5860fcf0d55aed22b847.jpg" alt="Imdb updates">
+</p>
+<h1 align="center">
+  <b>IMDB</b>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
