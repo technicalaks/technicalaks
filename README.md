@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ec2d3cd2710031908547f.jpg" alt="𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬">
 </p>
 <h1 align="center">
   𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐚𝐤𝐬
